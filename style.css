@@ -141,4 +141,8 @@ li:hover {
     column-gap: 5px;
     padding-right: 30px;
   }
+    .mainCotainer {
+    margin: 10px;
+    width: 95%;
+  }
 }
